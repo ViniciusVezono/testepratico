@@ -1,0 +1,4 @@
+link para conexao do banco de dados
+
+DATABASE_URL="mysql://root:@localhost:3306/agenda"
+PORT=3000
